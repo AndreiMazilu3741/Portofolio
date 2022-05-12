@@ -158,7 +158,7 @@ footer {
 
 /***** VIDEO STYLING *****/
 /* Formatting for background video */
-#Typing_Video {
+#Monitors {
     position: fixed; /* This fixes the video to the page */
     right: 0; /* This ensures there is no space between the edge of the video and the edge of the page */
     bottom: 0; /* This ensures no space between the bottom of the video and the bottom of the page */
